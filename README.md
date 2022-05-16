@@ -2,6 +2,12 @@
 
 A U.S. securities and cryptocurrency FinTech Trading Signals App
 
+Organization GitHub:
+
+www.github.com/reyaifund
+
+Website:
+
 www.ReyesAI.fund
 
 Contributors:
